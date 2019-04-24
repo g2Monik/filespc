@@ -1,0 +1,4 @@
+File:      Ejercicos
+Package:   Exceptions
+Class      e2Exceptons
+Tryout #1: IOException... 
